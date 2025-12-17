@@ -1,0 +1,67 @@
+{
+    "code01": {
+        "title": "Code 01 : Retard absence non rémunéré",
+        "option": [
+            "Retard"
+        ]
+    },
+    "code04": {
+        "title": "Code 04 : Grève Afpa",
+        "option": [
+            "Grève Afpa"
+        ]
+    },
+    "code05": {
+        "title": "Code 05 : Maladie",
+        "option": [
+            "Maladie"
+        ]
+    },
+    "code06": {
+        "title": "Code 06 : Absence Légale",
+        "option": [
+            "Naissance ou adoption (3 jours)",
+            "Mariage (4 jours)",
+            "Mariage d'un enfant (1 jour)",
+            "Décès d'un conjoint ou du partenaire lié par un pacte civil de solidarité ou d'un enfant (2 jours)",
+            "Décès du père, de la mère, du beau-père, de la belle-mère, d'un frère ou d'une soeur (1 jours)",
+            "Visite médicale obligatoire de la grossesse",
+            "Stagiaire élu membre du CA d'une caisse de sécurité sociale"
+        ]
+    },
+    "code20": {
+        "title": "Code 20-21-30-31-40-41 : Accident",
+        "option": [
+            "Accident travail sans arrêt",
+            "Accident travail avec arrêt",
+            "Accident trajet sans arrêt",
+            "Accident trajet avec arrêt",
+            "Accident travail hors Afpa sans arrêt",
+            "Accident travail hors Afpa avec arrêt"
+        ]
+    },
+    "code98": {
+        "title": "Code 98 : Absence autorisée non rémunérée",
+        "option": [
+            "Recherche PE",
+            "Recherche d'un emploi",
+            "Visite d'un salon",
+            "Enquête en entreprise",
+            "Visite d'un autre centre",
+            "RDV psychologue du travail",
+            "Rendez-vous POLE EMPLOI",
+            "Absence pour fêtes religieuse hors jours fériés légaux",
+            "Grève des transports",
+            "Intempéries",
+            "Rdv avec le conseiller militaire",
+            "Rdv avec le juge, Convocation au tribunal ou commissariat",
+            "Recherche de logement, Rdv organismes divers"
+        ]
+    },
+    "code99": {
+        "title": "Code 99 : Absence non autorisée non rémunérée",
+        "option": [
+            ""
+        ]
+    }
+}
